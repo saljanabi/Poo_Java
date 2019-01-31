@@ -1,0 +1,20 @@
+idPersonne;Prenom;Nom;Poids;Taille;Rue;Ville;Code Postal
+2; Claire;Chazal; 65.0;155.0;rue de Rennes; Laval;53000
+3; Jacques;Dupont; 90.0;180.0;rue des Anges; Paris;75000
+4; Celine;Dia; 66.0;166.0;rue Diderot; Paris;75000
+5; Remy;Cheval; 88.0;200.0;rue du paradis; Nantes;44000
+6; Nicolas;Dutrou; 40.0;150.0;rue Appert; Nantes;44000
+7; Marie;Claire; 92.0;188.0;rue du paradis; Rouen;76000
+8; Nathalie;Sage; 75.0;175.0;rue Appert; Rouen;76000
+9; Jean;Dujardin; 56.0;166.0;rue des sorciers; Havre;76800
+10; Michel;Leclerc; 100.0;202.0;rue du bonneur; Havre;76800
+11; Julien;Marshall; 65.0;144.0;rue de Nantes; Laval;53000
+12; Julien;Claire; 85.0;169.0;rue du Paradis; Paris;75000
+13; Jacques;Dupont; 87.0;172.0;rue des Passeurs; Paris;75000
+14; Charles;Hallyday; 69.0;133.0;rue des Feugrais; Rouen;76000
+15; Serge;Lama; 78.0;174.0;rue des Heureux; Nantes;44000
+16; Vincent;Thomas; 35.0;169.0;rue de Paris; Rennes;35000
+17; Eric;Dummat; 56.0;155.0;rue de Versaille; Paris;75000
+18; Nicolas;Samuel; 49.0;171.0;rue de Saint Louis; Laval;53000
+19; Remy;Guerry; 54.0;157.0;rue des Sages; Lyon;69000
+20; Nicolas;Drapeau; 63.0;145.0;rue Mitterrand; Limoges;87000
